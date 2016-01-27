@@ -5,3 +5,7 @@
 ## run script
 Command 	      Mac OS X 	Linux/Windows 	Notes
 Script: Run 	cmd-i 	   shift-ctrl-b 	If text is selected a "Selection Based" is used instead of a "File Based" run
+
+## run from terminal
+   > atom   * to open atom
+   > apm install packagename
