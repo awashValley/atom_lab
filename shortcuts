@@ -1,3 +1,7 @@
 ## installing packages
    1. ctr + shift + p
    2. type "settings install
+   
+## run script
+Command 	      Mac OS X 	Linux/Windows 	Notes
+Script: Run 	cmd-i 	   shift-ctrl-b 	If text is selected a "Selection Based" is used instead of a "File Based" run
