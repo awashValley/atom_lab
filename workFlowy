@@ -1,2 +1,11 @@
 ## to take hierarchial notes while I'm programming
    https://workflowy.com/
+   
+   - E.g. Quora [Mattias Petter Johansson]
+     It doesn't work.
+      ---- What error does it produce?
+      ---- ---- Database error: column not found.
+      ---- ---- What could be causes of this error?
+      ---- ---- ---- Spelling error in my SQL?
+      ---- ---- ---- Database not started / crashing?
+      ---- ---- ---- Forgot to run migration script?
